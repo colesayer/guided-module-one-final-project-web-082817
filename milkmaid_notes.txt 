@@ -1,0 +1,40 @@
+Thief : text adventure game 
+
+
+-	incorporating real-time data to determine outcomes of player choices (time of day, etc.)
+
+- incorporating random 
+
+- Use a museum API to get information about works of art that the theif will try to steal 
+
+
+gem - ascii art 
+
+
+
+Obstacle, Brains, Brawn, Heart
+laser sensors, 2, 3, 3
+sleeping security guard, 1, 1, 1
+patrolling guard, 1, 3, 2
+aggro guard, 1, 5, 4
+key locked door, 3, 2, 1 
+smart locked door, 5, 1, 2
+mainframe, 5, 1, 5    
+artwork alarm, 4, 1, 2
+noise sensor, 3, 2, 2
+methane detector, 3, 2, 5
+
+
+
+Gadget, Brains, Brawn, Heart 
+hairspray, 2, 3, 3            
+thick cotton socks, 1, 1, 1              
+wind up mouse, 1, 3, 2                  
+tranq dart, 1, 5, 4
+lockpick, 3, 2, 1
+laptop, 5, 1, 4 
+needle nose pliers, 4, 1, 2
+butt plug, 5, 5, 5 
+
+MUSEUM IMAGE URL: https://i.imgur.com/UPNE4Ox.jpg
+
